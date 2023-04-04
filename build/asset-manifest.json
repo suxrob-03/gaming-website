@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69e238ab.css",
+    "main.js": "/static/js/main.1249e442.js",
+    "static/media/Video.mp4": "/static/media/Video.9b43e1c9000d58513c5a.mp4",
+    "static/media/AboutBanner_img.png": "/static/media/AboutBanner_img.5c7fd11aa704436edb02.png",
+    "static/media/Advertising_img.png": "/static/media/Advertising_img.7a4f0fb5364b202a5a12.png",
+    "static/media/Advertising_2_img.png": "/static/media/Advertising_2_img.dab7873a03dbdb0d4644.png",
+    "static/media/AboutAdvertising_img.png": "/static/media/AboutAdvertising_img.53c915d8c6a8f03d2b88.png",
+    "static/media/Advertising_3_img.png": "/static/media/Advertising_3_img.f13c54dc185d3a4a8abb.png",
+    "static/media/News_col1_img2.png": "/static/media/News_col1_img2.cae000c7a3045fe98e04.png",
+    "static/media/News_col1_img1.png": "/static/media/News_col1_img1.0275eac72bb824094ba7.png",
+    "static/media/Advertising_1_img.png": "/static/media/Advertising_1_img.e30e9d40ed44bcb2d729.png",
+    "static/media/HomeBanner.png": "/static/media/HomeBanner.3d0141e393c8d0df4a66.png",
+    "static/media/CardsProjects_img5.png": "/static/media/CardsProjects_img5.386cda0f13072c22f1df.png",
+    "static/media/Advertising_4_img.png": "/static/media/Advertising_4_img.5410cf4c4878563722e0.png",
+    "static/media/card_img_4.png": "/static/media/card_img_4.99d47f3a1f43299268c4.png",
+    "static/media/card_img_2.png": "/static/media/card_img_2.10f5fa9fea7c682f9584.png",
+    "static/media/CardsProjects_img1.png": "/static/media/CardsProjects_img1.9021159df3860e71f80e.png",
+    "static/media/CardsProjects_img3.png": "/static/media/CardsProjects_img3.b29ad33d14891ab6f052.png",
+    "static/media/CardsProjects_img6.png": "/static/media/CardsProjects_img6.d952291815682d3f758b.png",
+    "static/media/card_img_1.png": "/static/media/card_img_1.06a37ce1d0ebf7be7f0c.png",
+    "static/media/card_img_3.png": "/static/media/card_img_3.fc3c84b4dae4b02a02bf.png",
+    "static/media/CardsProjects_img2.png": "/static/media/CardsProjects_img2.fed9cf27c3b89fede79a.png",
+    "static/media/News_col2_img.png": "/static/media/News_col2_img.7284b065e01933b4258f.png",
+    "static/media/CardsProjects_img4.png": "/static/media/CardsProjects_img4.07f203c5b96b4fe349d2.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.69e238ab.css.map": "/static/css/main.69e238ab.css.map",
+    "main.1249e442.js.map": "/static/js/main.1249e442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e238ab.css",
+    "static/js/main.1249e442.js"
+  ]
+}
